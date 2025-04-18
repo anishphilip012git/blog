@@ -1,22 +1,20 @@
 ---
-title: "Why I’m Starting This Blog"
+title: "Deploying My Blog with GitHub Pages"
 date: 2025-04-18
 ---
 
-This blog is my attempt at **learning in public**.
+Today I set up my personal blog using **GitHub Pages** and it was surprisingly smooth!
 
-As someone pivoting deeper into **AI Engineering**, I wanted a simple and transparent way to:
-- Track what I’m learning (daily or weekly)
-- Stay consistent and build momentum
-- Share things I figure out (especially related to NLP, RAG, LLMs, and system design)
-- Get feedback from the open source community
+### ✅ What I Did:
+- Created a `my-pages` branch on my GitHub repo
+- Enabled GitHub Pages from repository settings → selected the correct branch
+- Used the default Jekyll theme to keep things clean
+- Customized the `README.md` to explain what this blog is about (learning AI/ML and exploring LLMs!)
+- Committed my first `_posts/` file to test the blog pipeline
 
-I’ll be writing about:
-- Prompt engineering and agent frameworks
-- Deploying LLM-based systems
-- Infrastructure challenges and cloud optimization
-- Any open-source contributions I make along the way
+### 🔧 Why GitHub Pages?
+- Free hosting
+- Clean support for Markdown
+- Built-in Jekyll support means I can just write and ship
 
-This is my playground, my logbook, and my accountability partner.
-
-If you’re reading this, you’re already part of my journey. 🚀
+Excited to use this space as my **learning log**, especially as I go deeper into AI Engineering.
