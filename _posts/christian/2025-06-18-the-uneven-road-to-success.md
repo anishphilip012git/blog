@@ -1,6 +1,6 @@
 ---
 title: The Uneven Road: When Success Comes Slow
-date: 2025-06-17
+date: 2025-06-18
 author: Anish Philip
 tags: [faith, waiting, purpose, process, christian-life]
 ---
