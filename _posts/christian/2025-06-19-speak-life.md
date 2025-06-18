@@ -1,5 +1,5 @@
 ---
-title: Speak Life: Fighting Jealousy, Comparison, and Hopelessness
+title: "Speak Life: Fighting Jealousy, Comparison, and Hopelessness"
 date: 2025-06-19
 author: Anish Philip
 tags: [faith, comparison, jealousy, hope, worship, declarations]
