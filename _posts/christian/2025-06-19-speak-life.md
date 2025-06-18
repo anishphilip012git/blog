@@ -119,29 +119,30 @@ Here are **Biblical declarations** to fight jealousy, comparison, and despair:
 ## Worship That Realigns the Heart
 
 Music can shift your spirit faster than anything else. Here are **songs** to help **realign** your heart when jealousy or comparison creeps in:
+**[Youtube Playlist](https://music.youtube.com/playlist?list=PLNd0UfEQEspRI3O-VPA5jbV3xSrlfq0RN&si=Mt2HKj0Zitg82nHs)
 
-🎵 **[Gratitude – Brandon Lake](https://open.spotify.com/track/6P9mF1B2uVBRrP9W4X6opT)**  
+🎵 **[Gratitude – Brandon Lake](https://music.youtube.com/watch?v=vA83MufOCoA&si=s6RdVDQntTqBztUc)**  
 → When you need to remember what you *do* have.
 
-🎵 **[I Thank God – Maverick City Music](https://open.spotify.com/track/6PjWmvGfWrWy1FQVM41dGv)**  
+🎵 **[I Thank God – Maverick City Music](https://music.youtube.com/watch?v=5bOgOBFy9sE&si=IUiZnzF4Remqn53Z)**  
 → A defiant praise when you feel forgotten.
 
-🎵 **[Good Plans – Red Rocks Worship](https://open.spotify.com/track/2gGmQKTXDh1PXY4Hx9M1R6)**  
+🎵 **[Good Plans – Red Rocks Worship](https://music.youtube.com/watch?v=5bOgOBFy9sE&si=IUiZnzF4Remqn53Z)**  
 → A reminder that His plans are good — even when slow.
 
-🎵 **[See A Victory – Elevation Worship](https://open.spotify.com/track/3ZLzS3Rvef3r1jHoDkaMx0)**  
+🎵 **[See A Victory – Elevation Worship](https://music.youtube.com/watch?v=rJSeF65wALw&si=wkWZo4oQAKyDPJ0y)**  
 → When you’re tired of watching others win.
 
-🎵 **[Christ Be Magnified – Cody Carnes](https://open.spotify.com/track/1xGfWblq3wFFUmkLBGzwdA)**  
+🎵 **[Christ Be Magnified – Cody Carnes](https://music.youtube.com/watch?v=W-DW6a8S0Is&si=-VN1wlPmHmR_qVPf)**  
 → Refocuses you on eternal things.
 
-🎵 **[Who You Say I Am – Hillsong Worship](https://open.spotify.com/track/0IBFDz52X45tYB6VUGnzuM)**  
+🎵 **[Who You Say I Am – Hillsong Worship](https://music.youtube.com/watch?v=kj0wiU60z0M&si=vdSloVVeiPaUBMkM)**  
 → When you need identity to speak louder than insecurity.
 
-🎵 **[Way Maker – Leeland](https://open.spotify.com/track/0yoLxJstLSAxKqN2FM7Wls)**  
+🎵 **[Way Maker – Leeland](https://music.youtube.com/watch?v=53Wvma7RjNw&si=OLUKAAaZhCF-7UqY)**  
 → For when you can’t see the path forward.
 
-🎵 **[Joy Of The Lord – Rend Collective](https://open.spotify.com/track/0Hhf3q7OyZ12WvMNu7eFlW)**  
+🎵 **[Joy Of The Lord – Rend Collective](https://music.youtube.com/watch?v=3X0dYs2ylrU&si=LLpC0lLOUH9ZOcYG)**  
 → When joy feels like a fight.
 
 ---
