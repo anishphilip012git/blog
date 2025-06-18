@@ -119,7 +119,7 @@ Here are **Biblical declarations** to fight jealousy, comparison, and despair:
 ## Worship That Realigns the Heart
 
 Music can shift your spirit faster than anything else. Here are **songs** to help **realign** your heart when jealousy or comparison creeps in:
-**[Youtube Playlist](https://music.youtube.com/playlist?list=PLNd0UfEQEspRI3O-VPA5jbV3xSrlfq0RN&si=Mt2HKj0Zitg82nHs)
+**[Youtube Playlist](https://music.youtube.com/playlist?list=PLNd0UfEQEspRI3O-VPA5jbV3xSrlfq0RN&si=Mt2HKj0Zitg82nHs)**
 
 🎵 **[Gratitude – Brandon Lake](https://music.youtube.com/watch?v=vA83MufOCoA&si=s6RdVDQntTqBztUc)**  
 → When you need to remember what you *do* have.
