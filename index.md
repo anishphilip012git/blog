@@ -40,6 +40,12 @@ A personal log of what I'm learning, building, and experimenting with — shippe
 🧠 **Weekday Logs** → Short writeups on what I explored  
 📈 **Monthly Recap** → Wins, gaps, and what’s next
 
+📚 Browse by Theme:
+- 🛠 [Tech Logs](/tags/ai/)
+- 🙏 [Faith & Reflections](/tags/faith/)
+- 🔁 [Open Source Fridays](/tags/open-source-friday/)
+- 🎥 [Streaming Logs](/tags/streaming/)
+
 ## 🛠 Built With
 
 - GitHub Pages + Jekyll (or your static site stack of choice)
