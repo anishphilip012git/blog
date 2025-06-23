@@ -80,7 +80,7 @@ Here are just a few of the affirmations it holds:
 
 📎 *You can download or print a copy of this affirmation sheet as a daily memento [here](#) or see the image below.*
 
-![Who I Am in Christ](./affirmations.jpg)
+![Who I Am in Christ](./[affirmations](https://github.com/anishphilip012git/blog/blob/main/_posts/christian/affirmations.jpg)
 
 ---
 
